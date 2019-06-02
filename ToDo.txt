@@ -1,0 +1,19 @@
+HOMEWORK::
+check model , rule file ,recomendations.
+execute a workflow..
+
+Monday evening:workflow arguments(optional) and java class 
+
+DOUBTS:
+1.DATAGENT(java program) take details from SNOW Ticket and push it to DB : once create ticket and check in incident table. 
+2.TICKET PICK UP create workflow and involve two task and execute.
+3.ECR framework documents
+4.ALARM EXECUTION.
+5.TASK0619401 in HDCustomization class.
+6.Workflow execution.... cockpit view>recomendation.
+7.TRY for ESH lib>compile , build. for code change reflection or first nextgene maven clean , install and run on server. OR do both.
+8.check for application.yml and catalina.sh(existing)login to tomcat linux server 
+9.workspacesetup,env.text,harleyservers excel
+10.For Surila****** what all is done and what needs to be done.
+11.delegate try on Surila.
+12.Tickets pickup does it need deployment? assumption: as application is already deployed in tomcat for which load incident task and populate task will work., to pick up ticket we need rule file having short decription
